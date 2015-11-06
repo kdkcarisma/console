@@ -1,0 +1,9 @@
+
+1.getBusRouteList (노선번호에 해당하는 노선 목록 조회)
+ 
+  ServiceKey=%2Bu5CJ3V2RVJBURndvlf3TY%2FhvGWASUyXbDR14wpDcTrmAgA3n9uWOMxV8Y56I015uKzqy5xQ8w%2FC5MxnwlqJQQ%3D%3D
+  strSrch=6628
+  http://ws.bus.go.kr/api/rest/busRouteInfo/getBusRouteList
+  
+  
+   http://ws.bus.go.kr/api/rest/busRouteInfo/getBusRouteList?strSrch=6628&ServiceKey=%2Bu5CJ3V2RVJBURndvlf3TY%2FhvGWASUyXbDR14wpDcTrmAgA3n9uWOMxV8Y56I015uKzqy5xQ8w%2FC5MxnwlqJQQ%3D%3D
